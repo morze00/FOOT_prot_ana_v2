@@ -18,6 +18,7 @@
 #include "Riostream.h"
 #include "TApplication.h"
 #include "TArrow.h"
+#include "TBox.h"
 #include "TCanvas.h"
 #include "TChain.h"
 #include "TCut.h"
